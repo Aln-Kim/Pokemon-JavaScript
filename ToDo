@@ -1,0 +1,12 @@
+List of Planned
+1. Find Assests/Downloads for Map Terrain 
+2. Layering for Ocean/Water with ground
+  2a. Detailing and placement 
+  2b. Collision and boundaries 
+3. Render Map    //Maybe AI map generation? farther down the line//
+4. Player Creation 
+5. Player movement -> keys
+6. Map movement animation and player animation and sprite moves? -> ex: tree leaves & player movement 
+7. Battle Sequence 
+8. Transition and backgroun
+9. Sprites 
